@@ -14,7 +14,6 @@ body, #slider, .wrap, .slide-content {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  margin: 10px;
 }
 
 .slide1 {background-image: url('../images/image1.jpg')}
