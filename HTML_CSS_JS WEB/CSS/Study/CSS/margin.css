@@ -1,0 +1,35 @@
+div {
+  width: 200px;
+  height: 200px;
+  background-color: #999;
+  color: #fff;
+}
+
+
+.m50 {
+  margin: 50px;
+}
+
+.m100 {
+  margin: 100px;
+}
+
+.mt10, .mr10, .ml10, .mb10 {
+  margin: 10px;
+}
+
+.mt10 {
+  margin-top: 10em;
+}
+
+.mr10 {
+  margin-right: 10em;
+}
+
+.ml10 {
+  margin-left: 10em;
+}
+
+.mb10 {
+  margin-bottom: 10em;
+}
